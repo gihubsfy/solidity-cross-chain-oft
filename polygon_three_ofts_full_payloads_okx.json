@@ -1,0 +1,73 @@
+﻿{
+    "generatedAt":  "2026-04-06T06:47:15.1611835Z",
+    "chain":  "polygon",
+    "wallet":  "0x1e274433D138708C36aF002395aEf3C173a35eC6",
+    "results":  [
+                    {
+                        "symbol":  "HANDL",
+                        "polygonToken":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                        "paths":  {
+                                      "USDT_TO_TOKEN":  {
+                                                            "error":  "The term \u0027else@\u0027 is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDT":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "error":  "The term \u0027else@\u0027 is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        }
+                                  }
+                    },
+                    {
+                        "symbol":  "ZRO",
+                        "polygonToken":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                        "paths":  {
+                                      "USDT_TO_TOKEN":  {
+                                                            "error":  "The term \u0027else@\u0027 is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDT":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "error":  "The term \u0027else@\u0027 is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        }
+                                  }
+                    },
+                    {
+                        "symbol":  "SOPH",
+                        "polygonToken":  "0xeb971fd26783f32694dbb392dd7289de23109148",
+                        "paths":  {
+                                      "USDT_TO_TOKEN":  {
+                                                            "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDT":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        }
+                                  }
+                    }
+                ]
+}

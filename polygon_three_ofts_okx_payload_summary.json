@@ -1,0 +1,110 @@
+﻿[
+    {
+        "pair":  "HANDL",
+        "direction":  "USDT_TO_HANDL",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "TOKEN_TO_USDT",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "USDC_TO_HANDL",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "TOKEN_TO_USDC",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "USDT_TO_ZRO",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "TOKEN_TO_USDT",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "USDC_TO_ZRO",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "TOKEN_TO_USDC",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "USDT_TO_SOPH",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "TOKEN_TO_USDT",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "USDC_TO_SOPH",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "TOKEN_TO_USDC",
+        "ok":  false,
+        "txTo":  "",
+        "value":  "",
+        "dataLength":  "",
+        "route":  ""
+    }
+]

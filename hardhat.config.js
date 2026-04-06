@@ -14,6 +14,8 @@ function optionalNetwork(url) {
 const networks = {};
 const amoy = optionalNetwork(process.env.AMOY_RPC_URL);
 const baseSepolia = optionalNetwork(process.env.BASE_SEPOLIA_RPC_URL);
+const polygon = optionalNetwork(process.env.POLYGON_MAINNET_RPC_URL);
+const base = optionalNetwork(process.env.BASE_MAINNET_RPC_URL);
 
 if (amoy) {
   networks.amoy = amoy;
@@ -21,6 +23,14 @@ if (amoy) {
 
 if (baseSepolia) {
   networks["base-sepolia"] = baseSepolia;
+}
+
+if (polygon) {
+  networks.polygon = polygon;
+}
+
+if (base) {
+  networks.base = base;
 }
 
 networks.hardhat = {

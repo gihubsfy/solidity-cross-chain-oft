@@ -1,0 +1,126 @@
+﻿[
+    {
+        "pair":  "HANDL",
+        "direction":  "USDT_TO_HANDL",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  3978,
+        "value":  "0"
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "TOKEN_TO_USDT",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  4554,
+        "value":  "0"
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "USDC_TO_HANDL",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  522,
+        "value":  "0"
+    },
+    {
+        "pair":  "HANDL",
+        "direction":  "TOKEN_TO_USDC",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  522,
+        "value":  "0"
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "USDT_TO_ZRO",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  4234,
+        "value":  "0"
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "TOKEN_TO_USDT",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  1930,
+        "value":  "0"
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "USDC_TO_ZRO",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  1930,
+        "value":  "0"
+    },
+    {
+        "pair":  "ZRO",
+        "direction":  "TOKEN_TO_USDC",
+        "quoteOk":  true,
+        "swapOk":  true,
+        "route":  null,
+        "gas":  null,
+        "txTo":  "0x057cfd839aa88994d1a8a8c6d336cf21550f05ef",
+        "hasData":  true,
+        "dataLength":  4234,
+        "value":  "0"
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "USDT_TO_SOPH",
+        "quoteOk":  false,
+        "swapOk":  false,
+        "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets."
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "TOKEN_TO_USDT",
+        "quoteOk":  false,
+        "swapOk":  false,
+        "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets."
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "USDC_TO_SOPH",
+        "quoteOk":  false,
+        "swapOk":  false,
+        "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets."
+    },
+    {
+        "pair":  "SOPH",
+        "direction":  "TOKEN_TO_USDC",
+        "quoteOk":  false,
+        "swapOk":  false,
+        "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets."
+    }
+]

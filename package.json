@@ -11,7 +11,16 @@
     "compile": "hardhat compile",
     "watch:destination": "hardhat run scripts/testnet/watch-destination-balance-and-sell.js --network base-sepolia",
     "fork:replay:three": "hardhat run scripts/fork/replay-three-step-mainnet-flow.js --network hardhat",
-    "fork:replay:one": "hardhat run scripts/fork/replay-tx-on-hardhat-fork.js --network hardhat"
+    "fork:replay:one": "hardhat run scripts/fork/replay-tx-on-hardhat-fork.js --network hardhat",
+    "mainnet:deploy:polygon": "hardhat run scripts/mainnet/deploy-polygon-source-stack.js --network polygon",
+    "mainnet:deploy:base": "hardhat run scripts/mainnet/deploy-base-destination-stack.js --network base",
+    "mainnet:set-aggregator": "hardhat run scripts/mainnet/set-aggregator-approvals.js",
+    "mainnet:init:source": "hardhat run scripts/testnet/init-source-route.js",
+    "mainnet:init:destination": "hardhat run scripts/testnet/init-destination-route.js",
+    "mainnet:check:source": "hardhat run scripts/mainnet/check-polygon-source-state.js --network polygon",
+    "mainnet:probe:bridge": "hardhat run scripts/mainnet/probe-handl-bridge-quote.js --network polygon",
+    "mainnet:send:handl": "hardhat run scripts/mainnet/send-polygon-handl-live.js --network polygon",
+    "mainnet:watch:handl": "hardhat run scripts/mainnet/watch-base-handl-and-sell.js --network base"
   },
   "keywords": [],
   "author": "",
