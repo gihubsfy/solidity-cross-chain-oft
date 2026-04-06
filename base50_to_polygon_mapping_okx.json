@@ -1,0 +1,505 @@
+{
+  "generatedAt": "2026-04-06T03:27:15.969Z",
+  "results": [
+    {
+      "baseToken": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+      "baseSymbol": "CARV",
+      "baseName": "CARV",
+      "basePrice": "0.057632066039056894",
+      "baseLiquidity": "413849.69246109782009406859404138459192",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+      "baseSymbol": "SIGN",
+      "baseName": "Sign",
+      "basePrice": "0.034675808673767103",
+      "baseLiquidity": "122069.50299524634835649257946498",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "baseSymbol": "RIVER",
+      "baseName": "River",
+      "basePrice": "10.916739254285970024",
+      "baseLiquidity": "121395.536890390910211308868065199734312",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xbb146326778227a8498b105a18f84e0987a684b4",
+      "baseSymbol": "ASK",
+      "baseName": "Permission Token",
+      "basePrice": "0.000109386972219351",
+      "baseLiquidity": "80741.292473481745821969984209168458",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+      "baseSymbol": "HANDL",
+      "baseName": "HandlPay",
+      "basePrice": "0.001077834494087395",
+      "baseLiquidity": "32789.428261941549322226763185279",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "baseSymbol": "Anon",
+      "baseName": "HeyAnon",
+      "basePrice": "0.84597197687941095",
+      "baseLiquidity": "202450.739992022626698246256568079793",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "baseSymbol": "ZBT",
+      "baseName": "ZEROBASE",
+      "basePrice": "0.101634436557546998",
+      "baseLiquidity": "4372.0412483515103857982589898507348",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+      "baseSymbol": "RWA",
+      "baseName": "RWA Inc",
+      "basePrice": "0.001653148913348575",
+      "baseLiquidity": "99332.137312583573079296904650976",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x7431ada8a591c955a994a21710752ef9b882b8e3",
+      "baseSymbol": "MOR",
+      "baseName": "MOR",
+      "basePrice": "1.421456504488069396",
+      "baseLiquidity": "109047.010515150643525847689989644766",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xd5390300c5db71f80d46f0fa9983fc72d4d1e3da",
+      "baseSymbol": "KAT",
+      "baseName": "Katana",
+      "basePrice": "0.008597355334633991",
+      "baseLiquidity": "94174.2927041549343483717651954216",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+      "baseSymbol": "PROMPT",
+      "baseName": "Prompt",
+      "basePrice": "0.031840824621607241",
+      "baseLiquidity": "150025.687070496189234428329460289457",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "baseSymbol": "USR",
+      "baseName": "Resolv USD",
+      "basePrice": "0.235260863685070576",
+      "baseLiquidity": "56095.624646264570516288151092883792718",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x3d2a83cfa8fbf8d647d65bf708caed693aae9a34",
+      "baseSymbol": "BONSAI",
+      "baseName": "Bonsai",
+      "basePrice": "0.061390664782779916",
+      "baseLiquidity": "7246.78175894059142460521631829124",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xbcaba0bac0f4bff8cc8659f2218c6d5324b46061",
+      "baseSymbol": "HEMI",
+      "baseName": "Hemi",
+      "basePrice": "0.00712471819249496",
+      "baseLiquidity": "13722.26673990408524393299658755209",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+      "baseSymbol": "DRV",
+      "baseName": "Derive",
+      "basePrice": "0.092800897089088141",
+      "baseLiquidity": "895422.853910808370645917915966173605708193776",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x1393ad734ea3c52865b4b541cf049dafd25c23a5",
+      "baseSymbol": "X28",
+      "baseName": "X28",
+      "basePrice": "0.000000049650843985",
+      "baseLiquidity": "6762.450398704101176365215968428198",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+      "baseSymbol": "SDM",
+      "baseName": "Shieldeum",
+      "basePrice": "0.000206909126172962",
+      "baseLiquidity": "9581.11255568400019788235715822",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+      "baseSymbol": "FLOWER",
+      "baseName": "Flower",
+      "basePrice": "0.090589888975987586",
+      "baseLiquidity": "282498.43841951565368957845162544430169",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+      "baseSymbol": "RAVE",
+      "baseName": "RaveDAO",
+      "basePrice": "0.255561714310238908",
+      "baseLiquidity": "187999.74916378117324267444405234048",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+      "baseSymbol": "THQ",
+      "baseName": "Theoriq Token",
+      "basePrice": "0.021913024009012495",
+      "baseLiquidity": "630760.32590962890608983597440233623118",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x9cd44eca3d1e0ada6fbdaf5793031c3a500089b1",
+      "baseSymbol": "SPARKLET",
+      "baseName": "UPLAND",
+      "basePrice": "0.022761453314037605",
+      "baseLiquidity": "50062.06463472403831591853107851702",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xc6c1be6c6d828f9cea70f1b8351879510fbf0065",
+      "baseSymbol": "ZKP",
+      "baseName": "zkPass",
+      "basePrice": "0.068584859773855712",
+      "baseLiquidity": "2305.470485202911361013040740384224",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+      "baseSymbol": "VFY",
+      "baseName": "zkVerify",
+      "basePrice": "0.008435546121178667",
+      "baseLiquidity": "422957.18433574094640739146090973866248",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xc227717ef4ae4d982e14789eb33ba942243c3fee",
+      "baseSymbol": "MOZ",
+      "baseName": "Mozaic Token",
+      "basePrice": "0.000011429183630761",
+      "baseLiquidity": "225.420048577854286743648908345",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xce6170ea245dc8d1f275a710a062b70f125f0110",
+      "baseSymbol": "FXRP",
+      "baseName": "FXRP",
+      "basePrice": "1.339215728255867464",
+      "baseLiquidity": "308.630059802194650214468304",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+      "baseSymbol": "ALMANAK",
+      "baseName": "Almanak",
+      "basePrice": "0.0021897155070076",
+      "baseLiquidity": "146421.011253867727290003502578258",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x93402f62aeda632b9d768092b61887c4e9a13079",
+      "baseSymbol": "VERTAI",
+      "baseName": "Vertical AI",
+      "basePrice": "0.021168898374866565",
+      "baseLiquidity": "65484.0338303518595694666266424448",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xc5fed7c8ccc75d8a72b601a66dffd7a489073f0b",
+      "baseSymbol": "ACU",
+      "baseName": "ACU",
+      "basePrice": "0.077769357802445402",
+      "baseLiquidity": "209171.2625726311422286310454879399",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+      "baseSymbol": "SWORLD",
+      "baseName": "Seedworld",
+      "basePrice": "0.000023555241391703",
+      "baseLiquidity": "16613.4871690122297381444513070773184",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf",
+      "baseSymbol": "vTAO",
+      "baseName": "vTAO",
+      "basePrice": "316.840187916534794842",
+      "baseLiquidity": "21877.888411353055954026592061693168816",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+      "baseSymbol": "BOX",
+      "baseName": "DeBoxToken",
+      "basePrice": "0.010039315554114732",
+      "baseLiquidity": "15504.77684742224257907882754503833",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
+      "baseSymbol": "RLP",
+      "baseName": "Resolv Liquidity Provider Token",
+      "basePrice": "0.628839344433269875",
+      "baseLiquidity": "571.33331744427167484179531803049284",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "baseSymbol": "weETH",
+      "baseName": "Wrapped eETH",
+      "basePrice": "2329.739369742847904847",
+      "baseLiquidity": "4347772.281280575096369383630935270038811474232",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xb67675158b412d53fe6b68946483ba920b135ba1",
+      "baseSymbol": "wstUSR",
+      "baseName": "Wrapped Staked USR",
+      "basePrice": "1.744147151771853487",
+      "baseLiquidity": "913.20170445776319428758439630278941",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "baseSymbol": "ORA",
+      "baseName": "ORA Coin",
+      "basePrice": "0.007256356286638719",
+      "baseLiquidity": "75553.61161001103109598413640007031172012",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xab1e131c6984cc149ef45931073d11ae35497191",
+      "baseSymbol": "MASA",
+      "baseName": "Masa Token",
+      "basePrice": "0.000077789726363467",
+      "baseLiquidity": "8408.094458778487572357145684292",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+      "baseSymbol": "ORDER",
+      "baseName": "Orderly Network",
+      "basePrice": "0.058128958159346596",
+      "baseLiquidity": "147002.262143093030493739361782757608946",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+      "baseSymbol": "SQUID",
+      "baseName": "Squid Game V2",
+      "basePrice": "0.000048611492165863",
+      "baseLiquidity": "7712.8274449142005146934824528",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+      "baseSymbol": "MOVE",
+      "baseName": "Movement",
+      "basePrice": "0.000739356260338983",
+      "baseLiquidity": "541.22334365962834237017249054",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x959fc04dbf97a27073f89237cd62605f4d1b906d",
+      "baseSymbol": "COCA",
+      "baseName": "COCA",
+      "basePrice": "1.219626944619173481",
+      "baseLiquidity": "32982.24759470633389105687445106916",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xa100000000000d6e18bc155f425685e4badfe11c",
+      "baseSymbol": "SOFTWARE.ai",
+      "baseName": "SOFTWARE.ai",
+      "basePrice": "0.283318898768531583",
+      "baseLiquidity": "72082.34620687335663141931194",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+      "baseSymbol": "SOPH",
+      "baseName": "Sophon",
+      "basePrice": "0.008652721294782248",
+      "baseLiquidity": "945.459973004920889452668317034616",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x35e0966208f518371e79cc9fd35559112068ddad",
+      "baseSymbol": "WPAY",
+      "baseName": "WPAY",
+      "basePrice": "0.177472309007848931",
+      "baseLiquidity": "65024.74984705275532318039770031546",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x365b481bc61240aaa261ee637c9d2f9c1735ef3e",
+      "baseSymbol": "NRS",
+      "baseName": "NRS",
+      "basePrice": "0.107512108052876266",
+      "baseLiquidity": "96539.3739622607956131181460255373",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "baseSymbol": "SOON",
+      "baseName": "SOON Token",
+      "basePrice": "0.116592013737738081",
+      "baseLiquidity": "1203.11059137469108797104904495285",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+      "baseSymbol": "GIZA",
+      "baseName": "Giza",
+      "basePrice": "0.012673460438454242",
+      "baseLiquidity": "249929.68769331683245917537260212408325",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x370923d39f139c64813f173a1bf0b4f9ba36a24f",
+      "baseSymbol": "KRWQ",
+      "baseName": "KRWQ",
+      "basePrice": "0.000687870485213939",
+      "baseLiquidity": "162122.94656569951387306319669715",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "baseSymbol": "ZRO",
+      "baseName": "LayerZero",
+      "basePrice": "1.868521524986066621",
+      "baseLiquidity": "801115.063220537433569845112384252279220616",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0x407a5fb66cb1b3d50004f7091c08a27b42ba6d6f",
+      "baseSymbol": "ROBO",
+      "baseName": "Robo Token",
+      "basePrice": "0.017670848268736053",
+      "baseLiquidity": "436491.435254355427165662635346431",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    },
+    {
+      "baseToken": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+      "baseSymbol": "frxUSD",
+      "baseName": "Frax USD",
+      "basePrice": "0.99973863896289077",
+      "baseLiquidity": "92782.67232537806937345235353037668",
+      "candidates": [],
+      "selected": null,
+      "note": "Search failed: status=0 code="
+    }
+  ]
+}

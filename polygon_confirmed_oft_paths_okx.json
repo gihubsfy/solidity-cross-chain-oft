@@ -1,0 +1,510 @@
+﻿{
+    "generatedAt":  "2026-04-06T03:44:23.5105615Z",
+    "chain":  "polygon",
+    "results":  [
+                    {
+                        "symbol":  "HANDL",
+                        "polygonToken":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                        "baseToken":  "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+                        "mappingSource":  "tx-confirmed",
+                        "paths":  {
+                                      "TOKEN_TO_USDT":  {
+                                                            "estimatedGas":  "423000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                                                                        "tokenSymbol":  "HANDL",
+                                                                                                        "tokenUnitPrice":  "0.001015093333161777"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                      "tokenSymbol":  "USDC",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V4",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                        "tokenSymbol":  "USDC",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "1",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                      "tokenSymbol":  "USDT0",
+                                                                                                      "tokenUnitPrice":  "0.99961"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "2"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "7.41",
+                                                            "ok":  true,
+                                                            "amountIn":  "909336249024159156716",
+                                                            "route":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb--0x3c499c542cef5e3811e1192ce70d8cc03d5c3359--0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                            "amountOut":  "991871"
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "estimatedGas":  "288000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                        "tokenSymbol":  "USDC",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                                                                      "tokenSymbol":  "HANDL",
+                                                                                                      "tokenUnitPrice":  "0.001015093333161777"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "-7.67",
+                                                            "ok":  true,
+                                                            "amountIn":  "1000000",
+                                                            "route":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359--0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                            "amountOut":  "909527615952915806917"
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "estimatedGas":  "288000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                                                                        "tokenSymbol":  "HANDL",
+                                                                                                        "tokenUnitPrice":  "0.001015093333161777"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                      "tokenSymbol":  "USDC",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "7.42",
+                                                            "ok":  true,
+                                                            "amountIn":  "909527615952915806917",
+                                                            "route":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb--0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                            "amountOut":  "991849"
+                                                        },
+                                      "USDT_TO_TOKEN":  {
+                                                            "estimatedGas":  "1038000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                        "tokenSymbol":  "USDT0",
+                                                                                                        "tokenUnitPrice":  "0.99961"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+                                                                                                      "tokenSymbol":  "USDC.e",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+                                                                                                        "tokenSymbol":  "USDC.e",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "1",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                      "tokenSymbol":  "USDC",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "2"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                        "tokenSymbol":  "USDC",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "2",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                                                                      "tokenSymbol":  "HANDL",
+                                                                                                      "tokenUnitPrice":  "0.001015093333161777"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "3"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "-7.66",
+                                                            "ok":  true,
+                                                            "amountIn":  "1000000",
+                                                            "route":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f--0x2791bca1f2de4661ed88a30c99a7a9449aa84174--0x3c499c542cef5e3811e1192ce70d8cc03d5c3359--0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+                                                            "amountOut":  "909336249024159156716"
+                                                        }
+                                  }
+                    },
+                    {
+                        "symbol":  "ZRO",
+                        "polygonToken":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                        "baseToken":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                        "mappingSource":  "layerzero-grouped",
+                        "paths":  {
+                                      "TOKEN_TO_USDT":  {
+                                                            "estimatedGas":  "558000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                                                                        "tokenSymbol":  "ZRO",
+                                                                                                        "tokenUnitPrice":  "1.852717987722336390"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                                                                                                      "tokenSymbol":  "WPOL",
+                                                                                                      "tokenUnitPrice":  "0.0927"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V4",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                                                                                                        "tokenSymbol":  "WPOL",
+                                                                                                        "tokenUnitPrice":  "0.0927"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "1",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                      "tokenSymbol":  "USDC",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "2"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V4",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                        "tokenSymbol":  "USDC",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "2",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                      "tokenSymbol":  "USDT0",
+                                                                                                      "tokenUnitPrice":  "0.99961"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "3"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "0.27",
+                                                            "ok":  true,
+                                                            "amountIn":  "533638612319162004",
+                                                            "route":  "0x6985884c4392d348587b19cb9eaaf157f13271cd--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270--0x3c499c542cef5e3811e1192ce70d8cc03d5c3359--0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                            "amountOut":  "991711"
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "estimatedGas":  "423000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V4",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                        "tokenSymbol":  "USDC",
+                                                                                                        "tokenUnitPrice":  "0.9999"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                      "tokenSymbol":  "USDT0",
+                                                                                                      "tokenUnitPrice":  "0.99961"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                        "tokenSymbol":  "USDT0",
+                                                                                                        "tokenUnitPrice":  "0.99961"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "1",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                                                                      "tokenSymbol":  "ZRO",
+                                                                                                      "tokenUnitPrice":  "1.852717987722336390"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "2"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "-1.1",
+                                                            "ok":  true,
+                                                            "amountIn":  "1000000",
+                                                            "route":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359--0xc2132d05d31c914a87c6611c10748aeb04b58e8f--0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                            "amountOut":  "533761256608599308"
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "estimatedGas":  "798000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                                                                        "tokenSymbol":  "ZRO",
+                                                                                                        "tokenUnitPrice":  "1.852717987722336390"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                                                                                                      "tokenSymbol":  "WPOL",
+                                                                                                      "tokenUnitPrice":  "0.0927"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+                                                                                                        "tokenSymbol":  "WPOL",
+                                                                                                        "tokenUnitPrice":  "0.0927"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "1",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+                                                                                                      "tokenSymbol":  "LINK",
+                                                                                                      "tokenUnitPrice":  "8.971888559418174998"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "2"
+                                                                                  },
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "QuickSwap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "18",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+                                                                                                        "tokenSymbol":  "LINK",
+                                                                                                        "tokenUnitPrice":  "8.971888559418174998"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "2",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "6",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                                                                      "tokenSymbol":  "USDC",
+                                                                                                      "tokenUnitPrice":  "0.9999"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "3"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "0.28",
+                                                            "ok":  true,
+                                                            "amountIn":  "533761256608599308",
+                                                            "route":  "0x6985884c4392d348587b19cb9eaaf157f13271cd--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39--0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                                                            "amountOut":  "991744"
+                                                        },
+                                      "USDT_TO_TOKEN":  {
+                                                            "estimatedGas":  "288000",
+                                                            "dexRouterList":  [
+                                                                                  {
+                                                                                      "dexProtocol":  {
+                                                                                                          "dexName":  "Uniswap V3",
+                                                                                                          "percent":  "100"
+                                                                                                      },
+                                                                                      "fromToken":  {
+                                                                                                        "decimal":  "6",
+                                                                                                        "isHoneyPot":  false,
+                                                                                                        "taxRate":  "0",
+                                                                                                        "tokenContractAddress":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                                                                                                        "tokenSymbol":  "USDT0",
+                                                                                                        "tokenUnitPrice":  "0.99961"
+                                                                                                    },
+                                                                                      "fromTokenIndex":  "0",
+                                                                                      "toToken":  {
+                                                                                                      "decimal":  "18",
+                                                                                                      "isHoneyPot":  false,
+                                                                                                      "taxRate":  "0",
+                                                                                                      "tokenContractAddress":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                                                                      "tokenSymbol":  "ZRO",
+                                                                                                      "tokenUnitPrice":  "1.852717987722336390"
+                                                                                                  },
+                                                                                      "toTokenIndex":  "1"
+                                                                                  }
+                                                                              ],
+                                                            "priceImpactPercent":  "-1.09",
+                                                            "ok":  true,
+                                                            "amountIn":  "1000000",
+                                                            "route":  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f--0x6985884c4392d348587b19cb9eaaf157f13271cd",
+                                                            "amountOut":  "533638612319162004"
+                                                        }
+                                  }
+                    },
+                    {
+                        "symbol":  "SOPH",
+                        "polygonToken":  "0xeb971fd26783f32694dbb392dd7289de23109148",
+                        "baseToken":  "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+                        "mappingSource":  "layerzero-grouped",
+                        "paths":  {
+                                      "TOKEN_TO_USDT":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        },
+                                      "USDC_TO_TOKEN":  {
+                                                            "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets.",
+                                                            "ok":  false
+                                                        },
+                                      "TOKEN_TO_USDC":  {
+                                                            "error":  "buy leg unavailable",
+                                                            "ok":  false
+                                                        },
+                                      "USDT_TO_TOKEN":  {
+                                                            "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets.",
+                                                            "ok":  false
+                                                        }
+                                  }
+                    }
+                ]
+}

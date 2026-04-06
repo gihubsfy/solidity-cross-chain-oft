@@ -1,0 +1,6 @@
+﻿.env
+.env.local
+cache/
+artifacts/
+node_modules/
+scripts/testnet/state/

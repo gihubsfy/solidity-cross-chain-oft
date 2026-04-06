@@ -1,0 +1,34 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "watch:destination": "hardhat run scripts/testnet/watch-destination-balance-and-sell.js --network base-sepolia",
+    "fork:replay:three": "hardhat run scripts/fork/replay-three-step-mainnet-flow.js --network hardhat",
+    "fork:replay:one": "hardhat run scripts/fork/replay-tx-on-hardhat-fork.js --network hardhat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@layerzerolabs/lz-definitions": "^3.0.167",
+    "@layerzerolabs/oft-evm": "^4.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.6.1",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "chai": "^6.2.2",
+    "dotenv": "^17.4.0",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.24.3",
+    "solc": "^0.8.24"
+  }
+}

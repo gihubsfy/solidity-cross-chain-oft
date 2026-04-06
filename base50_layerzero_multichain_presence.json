@@ -1,0 +1,1080 @@
+{
+  "generatedAt": "2026-04-06T03:50:00.824Z",
+  "total": 50,
+  "found": 19,
+  "notFound": 31,
+  "results": [
+    {
+      "baseToken": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+      "foundInLayerZero": true,
+      "symbol": "CARV",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+        "decimals": null,
+        "price": "0.151683911740633369",
+        "liquidity": "679515.622965317876693007228061506124128046"
+      },
+      "chains": [
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+          "liquidity": "679515.622965317876693007228061506124128046",
+          "price": "0.151683911740633369",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+          "liquidity": "148876.650454310728926753877200565839514066",
+          "price": "0.151500014816168447",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+          "liquidity": "9020.748135813586224058976794309268193",
+          "price": "0.151421786458896617",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+          "liquidity": "",
+          "price": "0.152331",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+      "foundInLayerZero": true,
+      "symbol": "SIGN",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+        "decimals": null,
+        "price": "0.034980116177643207",
+        "liquidity": "129936.49141944836741089350813987458648792"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+          "liquidity": "711511.21359084865417114369380599573422078",
+          "price": "0.034982886407951033",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+          "liquidity": "129936.49141944836741089350813987458648792",
+          "price": "0.034980116177643207",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+          "liquidity": "2140.402983644209094502401122668019612422",
+          "price": "0.034656439280193514",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "foundInLayerZero": true,
+      "symbol": "RIVER",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+        "decimals": null,
+        "price": "3.528968168144882426",
+        "liquidity": "70001.539914030512377316792870712468142592"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+          "liquidity": "773848.054101902654358748104430977674744105",
+          "price": "3.54057378623674863",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+          "liquidity": "70001.539914030512377316792870712468142592",
+          "price": "3.528968168144882426",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+          "liquidity": "8208.62965198918137408382050927260642903",
+          "price": "2.878888388420324554",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xbb146326778227a8498b105a18f84e0987a684b4",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+      "foundInLayerZero": true,
+      "symbol": "HANDL",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+        "source": "tx-confirmed"
+      },
+      "chains": [
+        {
+          "chain": "Polygon",
+          "chain_id": 137,
+          "address": "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
+          "source": "tx-confirmed"
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+          "source": "tx-confirmed"
+        }
+      ]
+    },
+    {
+      "baseToken": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "foundInLayerZero": true,
+      "symbol": "Anon",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+        "decimals": null,
+        "price": "1.867740184902781695",
+        "liquidity": "349742.71409579329896977184329085499192"
+      },
+      "chains": [
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+          "liquidity": "349742.71409579329896977184329085499192",
+          "price": "1.867740184902781695",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+          "liquidity": "183307.848287372905549166266310364564539526",
+          "price": "1.870818872228330557",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+          "liquidity": "30132.71451393099919331381956412170666656",
+          "price": "1.868068127249024366",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+          "liquidity": "22058.2177366772399093529604912443116488",
+          "price": "1.915991506216601807",
+          "eid": null
+        },
+        {
+          "chain": "Avalanche C",
+          "chain_id": 43114,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+          "liquidity": "458.825455723817667910375832098565646",
+          "price": "1.885006220357574898",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "foundInLayerZero": true,
+      "symbol": "ZBT",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+        "decimals": null,
+        "price": "0.069175557786313447",
+        "liquidity": "627.26068201282357497133006148873444904"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+          "liquidity": "432881.735715778157628705060519615124257265",
+          "price": "0.080665942265812677",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+          "liquidity": "16223.1470390550902731729837018743965597",
+          "price": "0.075459721199454966",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+          "liquidity": "627.26068201282357497133006148873444904",
+          "price": "0.069175557786313447",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+      "foundInLayerZero": true,
+      "symbol": "RWA",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+        "decimals": null,
+        "price": "0.003010275207427982",
+        "liquidity": "134199.777372870282473370493643766"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x9c8b5ca345247396bdfac0395638ca9045c6586e",
+          "liquidity": "623823.904358256701074208269920734557369904",
+          "price": "0.00281334555287601",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+          "liquidity": "134199.777372870282473370493643766",
+          "price": "0.003010275207427982",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+          "liquidity": "11266.3015545571926400323897506769412616",
+          "price": "0.00297534744929159",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+          "liquidity": "9.85185008979248582934",
+          "price": "0.00300318",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x7431ada8a591c955a994a21710752ef9b882b8e3",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xd5390300c5db71f80d46f0fa9983fc72d4d1e3da",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "foundInLayerZero": true,
+      "symbol": "USR",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+        "decimals": null,
+        "price": "0.999884454810121113",
+        "liquidity": "397806.623009913110853924579840929598168108"
+      },
+      "chains": [
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+          "liquidity": "981120.070258611952575210609443952587997795",
+          "price": "1.000124836021079128",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+          "liquidity": "397806.623009913110853924579840929598168108",
+          "price": "0.999884454810121113",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+          "liquidity": "69714.0457954979792969444279855167274",
+          "price": "1.000055128880328438",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x3d2a83cfa8fbf8d647d65bf708caed693aae9a34",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xbcaba0bac0f4bff8cc8659f2218c6d5324b46061",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x1393ad734ea3c52865b4b541cf049dafd25c23a5",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+      "foundInLayerZero": true,
+      "symbol": "RAVE",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+        "decimals": null,
+        "price": "0.383226458356211956",
+        "liquidity": "168633.60634633756464123559561791732"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+          "liquidity": "1585638.02988908304896675060208642836185555",
+          "price": "0.383271049675032373",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+          "liquidity": "168633.60634633756464123559561791732",
+          "price": "0.383226458356211956",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x17205fab260a7a6383a81452ce6315a39370db97",
+          "liquidity": "160759.829124919886358890709109642797998682",
+          "price": "0.386432205893235712",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x9cd44eca3d1e0ada6fbdaf5793031c3a500089b1",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xc6c1be6c6d828f9cea70f1b8351879510fbf0065",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xc227717ef4ae4d982e14789eb33ba942243c3fee",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xce6170ea245dc8d1f275a710a062b70f125f0110",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x93402f62aeda632b9d768092b61887c4e9a13079",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xc5fed7c8ccc75d8a72b601a66dffd7a489073f0b",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+      "foundInLayerZero": true,
+      "symbol": "BOX",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+        "decimals": null,
+        "price": "0.015098728408284135",
+        "liquidity": "22200.0907916678268492745523604600550824"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x6386adc4bc9c21984e34fd916bb349dd861742af",
+          "liquidity": "204228.061729826778943382523925414637062",
+          "price": "0.015122942336324892",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x32b77729cd87f1ef2bea4c650c16f89f08472c69",
+          "liquidity": "101544.82155000191125362441324717171114",
+          "price": "0.015168789225951099",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+          "liquidity": "22200.0907916678268492745523604600550824",
+          "price": "0.015098728408284135",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "foundInLayerZero": true,
+      "symbol": "weETH",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+        "decimals": null,
+        "price": "3232.301983376728377371",
+        "liquidity": "5456282.587988594685340105900811840279883392"
+      },
+      "chains": [
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+          "liquidity": "71240182.0886909641211295495760637507766818",
+          "price": "3232.162588288735853268",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+          "liquidity": "5456282.587988594685340105900811840279883392",
+          "price": "3232.301983376728377371",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+          "liquidity": "5051658.713719202172996264637607331494245698",
+          "price": "3236.832484643936629542",
+          "eid": null
+        },
+        {
+          "chain": "Linea",
+          "chain_id": 59144,
+          "address": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
+          "liquidity": "3219858.39265626158579489382584187093184",
+          "price": "3235.432395590107377378",
+          "eid": null
+        },
+        {
+          "chain": "Avalanche C",
+          "chain_id": 43114,
+          "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+          "liquidity": "1960640.73845742265297912502816479418537736",
+          "price": "3235.517753779994722147",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+          "liquidity": "148935.513180890991555540249849532540605625",
+          "price": "3253.724383599850937066",
+          "eid": null
+        },
+        {
+          "chain": "Scroll",
+          "chain_id": 534352,
+          "address": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+          "liquidity": "34247.054738206393722970299405785500126236",
+          "price": "3219.784617411139667926",
+          "eid": null
+        },
+        {
+          "chain": "Optimism",
+          "chain_id": 10,
+          "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+          "liquidity": "15005.61054370735440538213146192576326344",
+          "price": "3200.085185897878441008",
+          "eid": null
+        },
+        {
+          "chain": "zkSync Era",
+          "chain_id": 324,
+          "address": "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a",
+          "liquidity": "1319.5144500555175310134462659650849492",
+          "price": "2920.157741627809387515",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xb67675158b412d53fe6b68946483ba920b135ba1",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "foundInLayerZero": true,
+      "symbol": "ORA",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+        "decimals": null,
+        "price": "0.0154407883913213",
+        "liquidity": "6736.804967236503425361795743683768126"
+      },
+      "chains": [
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x33333333fede34409fb7f67c6585047e1f653333",
+          "liquidity": "23197.7084039987370767753098468241934",
+          "price": "0.014449560243349386",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+          "liquidity": "6736.804967236503425361795743683768126",
+          "price": "0.0154407883913213",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+          "liquidity": "5332.4252995378060786151751751791383478",
+          "price": "0.016825100702656105",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xab1e131c6984cc149ef45931073d11ae35497191",
+      "foundInLayerZero": true,
+      "symbol": "MASA",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xab1e131c6984cc149ef45931073d11ae35497191",
+        "decimals": null,
+        "price": "0.003644648890258702",
+        "liquidity": "25432.455781731322762294601673303948352"
+      },
+      "chains": [
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x944824290cc12f31ae18ef51216a223ba4063092",
+          "liquidity": "30078.71905789653349886305280772204",
+          "price": "0.003242962917207928",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xab1e131c6984cc149ef45931073d11ae35497191",
+          "liquidity": "25432.455781731322762294601673303948352",
+          "price": "0.003644648890258702",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x944824290cc12f31ae18ef51216a223ba4063092",
+          "liquidity": "20070.63862550826656876595059920966248",
+          "price": "0.003393309977778614",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+      "foundInLayerZero": true,
+      "symbol": "ORDER",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+        "decimals": null,
+        "price": "0.093334742153567414",
+        "liquidity": "233427.138274238062401897739605348042984611"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+          "liquidity": "781653.3406201491407263345952605458006379",
+          "price": "0.093442318722148983",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xabd4c63d2616a5201454168269031355f4764337",
+          "liquidity": "770857.0692492048941032037663086223754",
+          "price": "0.093093461268590863",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+          "liquidity": "427518.25102425211118239874115758332351",
+          "price": "0.09340488020516937",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+          "liquidity": "233427.138274238062401897739605348042984611",
+          "price": "0.093334742153567414",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+      "foundInLayerZero": true,
+      "symbol": "SQUID",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+        "decimals": null,
+        "price": "0.000074243056046137",
+        "liquidity": "11524.7347283869620610436918607823477278"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+          "liquidity": "54454.08758006011833484195455554629913",
+          "price": "0.000075007873809444",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+          "liquidity": "11524.7347283869620610436918607823477278",
+          "price": "0.000074243056046137",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x959fc04dbf97a27073f89237cd62605f4d1b906d",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xa100000000000d6e18bc155f425685e4badfe11c",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+      "foundInLayerZero": true,
+      "symbol": "SOPH",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+        "decimals": null,
+        "price": "0.015274527796865864",
+        "liquidity": "114.097310741692903897236322610944"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+          "liquidity": "579010.251130454370958278019461133450698332",
+          "price": "0.018660141316327442",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0",
+          "liquidity": "235611.355199712532235580917431770103808",
+          "price": "0.018479348074713489",
+          "eid": null
+        },
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+          "liquidity": "138.981462528595826876987941803253384064",
+          "price": "0.018521570500364276",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+          "liquidity": "114.097310741692903897236322610944",
+          "price": "0.015274527796865864",
+          "eid": null
+        },
+        {
+          "chain": "Polygon",
+          "chain_id": 137,
+          "address": "0xeb971fd26783f32694dbb392dd7289de23109148",
+          "liquidity": "18.2591249430598698713",
+          "price": "0.0186197",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x35e0966208f518371e79cc9fd35559112068ddad",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x365b481bc61240aaa261ee637c9d2f9c1735ef3e",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "foundInLayerZero": true,
+      "symbol": "SOON",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+        "decimals": null,
+        "price": "0.392426644201302864",
+        "liquidity": "2200.7921717810308895188642565260009372"
+      },
+      "chains": [
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+          "liquidity": "114542.89336232166908813400255798394156995",
+          "price": "0.391968843525445259",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+          "liquidity": "2200.7921717810308895188642565260009372",
+          "price": "0.392426644201302864",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x370923d39f139c64813f173a1bf0b4f9ba36a24f",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "foundInLayerZero": true,
+      "symbol": "ZRO",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "decimals": null,
+        "price": "1.348403386038340084",
+        "liquidity": "268717.734681125059411441165837673277185008"
+      },
+      "chains": [
+        {
+          "chain": "Arbitrum One",
+          "chain_id": 42161,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "444360.072541174360532941919244230669793578",
+          "price": "1.347747984121325452",
+          "eid": null
+        },
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "417744.2143449055848731855781632713157",
+          "price": "1.345942926578455214",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "268717.734681125059411441165837673277185008",
+          "price": "1.348403386038340084",
+          "eid": null
+        },
+        {
+          "chain": "Optimism",
+          "chain_id": 10,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "79035.3582990403191052997131527273847918",
+          "price": "1.347958301599515413",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "47148.867318541477296975620461124067890502",
+          "price": "1.351436905155301085",
+          "eid": null
+        },
+        {
+          "chain": "Polygon",
+          "chain_id": 137,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "12589.8087688073200296991037692726740076",
+          "price": "1.350728548536561785",
+          "eid": null
+        },
+        {
+          "chain": "Avalanche C",
+          "chain_id": 43114,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+          "liquidity": "3551.36770652846905179403339048733415337",
+          "price": "1.363458122229347117",
+          "eid": null
+        }
+      ]
+    },
+    {
+      "baseToken": "0x407a5fb66cb1b3d50004f7091c08a27b42ba6d6f",
+      "foundInLayerZero": false,
+      "symbol": null,
+      "base": null,
+      "chains": []
+    },
+    {
+      "baseToken": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+      "foundInLayerZero": true,
+      "symbol": "frxUSD",
+      "base": {
+        "chain": "Base",
+        "chain_id": 8453,
+        "address": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+        "decimals": null,
+        "price": "0.99933259205177914",
+        "liquidity": "87783.624147640306485528727227282470522855"
+      },
+      "chains": [
+        {
+          "chain": "Ethereum",
+          "chain_id": 1,
+          "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
+          "liquidity": "41407435.25750670378957190452448089860111488",
+          "price": "0.996435215241354524",
+          "eid": null
+        },
+        {
+          "chain": "BNB Chain",
+          "chain_id": 56,
+          "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+          "liquidity": "135506.355974992514405631173694508428",
+          "price": "0.999978823345055183",
+          "eid": null
+        },
+        {
+          "chain": "Base",
+          "chain_id": 8453,
+          "address": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+          "liquidity": "87783.624147640306485528727227282470522855",
+          "price": "0.99933259205177914",
+          "eid": null
+        },
+        {
+          "chain": "Linea",
+          "chain_id": 59144,
+          "address": "0xc7346783f5e645aa998b106ef9e7f499528673d8",
+          "liquidity": "11211.90780129577146499304266057338786",
+          "price": "1.000195668069814794",
+          "eid": null
+        }
+      ]
+    }
+  ]
+}

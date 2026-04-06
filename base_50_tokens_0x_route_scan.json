@@ -1,0 +1,311 @@
+{
+  "scannedAt": "2026-04-06T02:23:58.759Z",
+  "chainId": "8453",
+  "baseToken": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+  "sellAmountUsdc": "1000000",
+  "total": 50,
+  "buyAvailable": 0,
+  "roundtripAvailable": 0,
+  "results": [
+    {
+      "token": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"80db975c82b7004ce9ac8a7f1c0e9577\"}"
+    },
+    {
+      "token": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"21bff9418adce82be34b3506954dd228\"}"
+    },
+    {
+      "token": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"60680325bae0292c98821727bff47d0b\"}"
+    },
+    {
+      "token": "0xbb146326778227a8498b105a18f84e0987a684b4",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"671f6062ff04a140c648ee1f3f2f1439\"}"
+    },
+    {
+      "token": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"9e60d101c4e6053a646c9439a41c5760\"}"
+    },
+    {
+      "token": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"6b0d3505b1e41b73e07e0306e082ec14\"}"
+    },
+    {
+      "token": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"8f14150f2fcdc13859ce6309c954a21d\"}"
+    },
+    {
+      "token": "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"0553306843ea2b2f7237b4430d612432\"}"
+    },
+    {
+      "token": "0x7431ada8a591c955a994a21710752ef9b882b8e3",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"0422a1097abe3d1a56ef604183dd7e11\"}"
+    },
+    {
+      "token": "0xd5390300c5db71f80d46f0fa9983fc72d4d1e3da",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"6075a22058bee627775de349c71cd364\"}"
+    },
+    {
+      "token": "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"afbaa117087dcb064612e00f6a14ba78\"}"
+    },
+    {
+      "token": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"869b3d68297ba274c3e6704706dd8e40\"}"
+    },
+    {
+      "token": "0x3d2a83cfa8fbf8d647d65bf708caed693aae9a34",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"97f1604745f15d66f4ff936f3a7bf443\"}"
+    },
+    {
+      "token": "0xbcaba0bac0f4bff8cc8659f2218c6d5324b46061",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"c56f1f00f253e5501cf174613814da6f\"}"
+    },
+    {
+      "token": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"4b5652057dcdd47712ff165ff3e00658\"}"
+    },
+    {
+      "token": "0x1393ad734ea3c52865b4b541cf049dafd25c23a5",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"5933495dd2a268167830f37472f86a5f\"}"
+    },
+    {
+      "token": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"11cf7a1e19376d4c425d6a5f25b9f455\"}"
+    },
+    {
+      "token": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"171123313e70eb0083b5be15636c9e2d\"}"
+    },
+    {
+      "token": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"27960744badac522d601a723cd487434\"}"
+    },
+    {
+      "token": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"86c088166878ed30ac2c8852aa1eb533\"}"
+    },
+    {
+      "token": "0x9cd44eca3d1e0ada6fbdaf5793031c3a500089b1",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"539d752c0548c5503794ac02319b2a28\"}"
+    },
+    {
+      "token": "0xc6c1be6c6d828f9cea70f1b8351879510fbf0065",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"7a49a8716f789a4687d7c85eef82812c\"}"
+    },
+    {
+      "token": "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"0aeb7f450c1dfb36f1e38328216f0230\"}"
+    },
+    {
+      "token": "0xc227717ef4ae4d982e14789eb33ba942243c3fee",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"66e1955b9020c3462244b2661d7c530f\"}"
+    },
+    {
+      "token": "0xce6170ea245dc8d1f275a710a062b70f125f0110",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"3984624321231f7fa700e95350e2141b\"}"
+    },
+    {
+      "token": "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"1063f818abfee854c0f3c8608bc39355\"}"
+    },
+    {
+      "token": "0x93402f62aeda632b9d768092b61887c4e9a13079",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"61fd1b41a2823c6b02f698220a5b8023\"}"
+    },
+    {
+      "token": "0xc5fed7c8ccc75d8a72b601a66dffd7a489073f0b",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"7a75b33f5623332bd6bdb754b87e6420\"}"
+    },
+    {
+      "token": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"6739d84e96887c56975a8e5112dc0f5e\"}"
+    },
+    {
+      "token": "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"245243342a5c0c21d928771b3e04b614\"}"
+    },
+    {
+      "token": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"9bf07f7a10da3b0b0c38a36f90ce6733\"}"
+    },
+    {
+      "token": "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"38d72b1509ce8705b0e0b25855e15b0b\"}"
+    },
+    {
+      "token": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"db6d176b3c6fec3c2a0de024ae97d46d\"}"
+    },
+    {
+      "token": "0xb67675158b412d53fe6b68946483ba920b135ba1",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"5eaeea759521a44367c6e92101438757\"}"
+    },
+    {
+      "token": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"1649af23a140c92c4b1d094af4ba412e\"}"
+    },
+    {
+      "token": "0xab1e131c6984cc149ef45931073d11ae35497191",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"fce0ce10e3bd93296adf5f34d9293c27\"}"
+    },
+    {
+      "token": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"8a493969294abd77490b5b11eb811761\"}"
+    },
+    {
+      "token": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"d05f395f94542a0d1d039116f5f4d757\"}"
+    },
+    {
+      "token": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"b98e1841c7f39412dca36b5fd394f44b\"}"
+    },
+    {
+      "token": "0x959fc04dbf97a27073f89237cd62605f4d1b906d",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"e6730447f4177d713df56f147310a063\"}"
+    },
+    {
+      "token": "0xa100000000000d6e18bc155f425685e4badfe11c",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"9e75c7206f60af59bb742947f98e593c\"}"
+    },
+    {
+      "token": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"c55aa03a452865069e971e50c06b0d1f\"}"
+    },
+    {
+      "token": "0x35e0966208f518371e79cc9fd35559112068ddad",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"d574df2a9e3eb301952c005d8804b15d\"}"
+    },
+    {
+      "token": "0x365b481bc61240aaa261ee637c9d2f9c1735ef3e",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"af2dfc7798607e57e28bfb462093164d\"}"
+    },
+    {
+      "token": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"b36f7972e834bf5fb2a24c009c037f10\"}"
+    },
+    {
+      "token": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"59d61c71fad54a035bdad21969818141\"}"
+    },
+    {
+      "token": "0x370923d39f139c64813f173a1bf0b4f9ba36a24f",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"cd13706829425216c28f442ca92afd30\"}"
+    },
+    {
+      "token": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"5a955e1e38dc92541fd3b30465e92b1f\"}"
+    },
+    {
+      "token": "0x407a5fb66cb1b3d50004f7091c08a27b42ba6d6f",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"48aab7652b1dae18a1a00810aca61c68\"}"
+    },
+    {
+      "token": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+      "buyStatus": 429,
+      "buyAvailable": false,
+      "buyError": "{\"message\":\"Rate limit exceeded. Please try again shortly or visit https://0x.org/pricing to get higher rate limits.\",\"request_id\":\"6603ea57ea383c7cccf5c05f0bdba334\"}"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+﻿[
+    {
+        "token":  "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+        "symbol":  "CARV",
+        "liquidity":  "413849.69246109782009406859404138459192",
+        "quoteOk":  true,
+        "toTokenAmount":  "17372083273201063477",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+        "symbol":  "SIGN",
+        "liquidity":  "122069.50299524634835649257946498",
+        "quoteOk":  true,
+        "toTokenAmount":  "28712540589095222999",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "558000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+        "symbol":  "RIVER",
+        "liquidity":  "121395.536890390910211308868065199734312",
+        "quoteOk":  true,
+        "toTokenAmount":  "92474610356712543",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xbb146326778227a8498b105a18f84e0987a684b4",
+        "symbol":  "ASK",
+        "liquidity":  "80741.292473481745821969984209168458",
+        "quoteOk":  true,
+        "toTokenAmount":  "9140671068924360987566",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+        "symbol":  "HANDL",
+        "liquidity":  "32789.428261941549322226763185279",
+        "quoteOk":  true,
+        "toTokenAmount":  "927616236389765437695",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+        "symbol":  "Anon",
+        "liquidity":  "202450.739992022626698246256568079793",
+        "quoteOk":  true,
+        "toTokenAmount":  "1178995459044561964",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+        "symbol":  "ZBT",
+        "liquidity":  "4372.0412483515103857982589898507348",
+        "quoteOk":  true,
+        "toTokenAmount":  "6552978935821607008",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+        "symbol":  "RWA",
+        "liquidity":  "99332.137312583573079296904650976",
+        "quoteOk":  true,
+        "toTokenAmount":  "604819889386748085808",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x7431ada8a591c955a994a21710752ef9b882b8e3",
+        "symbol":  "MOR",
+        "liquidity":  "109047.010515150643525847689989644766",
+        "quoteOk":  true,
+        "toTokenAmount":  "698322064431290515",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "903000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xd5390300c5db71f80d46f0fa9983fc72d4d1e3da",
+        "symbol":  "KAT",
+        "liquidity":  "94174.2927041549343483717651954216",
+        "quoteOk":  true,
+        "toTokenAmount":  "116416889887607381637",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+        "symbol":  "PROMPT",
+        "liquidity":  "150025.687070496189234428329460289457",
+        "quoteOk":  true,
+        "toTokenAmount":  "31218646641890033871",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+        "symbol":  "USR",
+        "liquidity":  "56095.624646264570516288151092883792718",
+        "quoteOk":  true,
+        "toTokenAmount":  "4151095375739590847",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x3d2a83cfa8fbf8d647d65bf708caed693aae9a34",
+        "symbol":  "BONSAI",
+        "liquidity":  "7246.78175894059142460521631829124",
+        "quoteOk":  true,
+        "toTokenAmount":  "15887173612433530796",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xbcaba0bac0f4bff8cc8659f2218c6d5324b46061",
+        "symbol":  "HEMI",
+        "liquidity":  "13722.26673990408524393299658755209",
+        "quoteOk":  true,
+        "toTokenAmount":  "140352080872489022684",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+        "symbol":  "DRV",
+        "liquidity":  "895422.853910808370645917915966173605708193776",
+        "quoteOk":  true,
+        "toTokenAmount":  "10789513301247948017",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "411228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x1393ad734ea3c52865b4b541cf049dafd25c23a5",
+        "symbol":  "X28",
+        "liquidity":  "6762.450398704101176365215968428198",
+        "quoteOk":  true,
+        "toTokenAmount":  "20130418744389202801915356",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+        "symbol":  "SDM",
+        "liquidity":  "9581.11255568400019788235715822",
+        "quoteOk":  true,
+        "toTokenAmount":  "4842958420070828020139",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+        "symbol":  "FLOWER",
+        "liquidity":  "282498.43841951565368957845162544430169",
+        "quoteOk":  true,
+        "toTokenAmount":  "10975696211748232515",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+        "symbol":  "RAVE",
+        "liquidity":  "187999.74916378117324267444405234048",
+        "quoteOk":  true,
+        "toTokenAmount":  "3896538105192268962",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+        "symbol":  "THQ",
+        "liquidity":  "630760.32590962890608983597440233623118",
+        "quoteOk":  true,
+        "toTokenAmount":  "45838800096636308587",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x9cd44eca3d1e0ada6fbdaf5793031c3a500089b1",
+        "symbol":  "SPARKLET",
+        "liquidity":  "50062.06463472403831591853107851702",
+        "quoteOk":  true,
+        "toTokenAmount":  "43932866233163777977",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "411228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xc6c1be6c6d828f9cea70f1b8351879510fbf0065",
+        "symbol":  "ZKP",
+        "liquidity":  "2305.470485202911361013040740384224",
+        "quoteOk":  true,
+        "toTokenAmount":  "9330936582889936793",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+        "symbol":  "VFY",
+        "liquidity":  "422957.18433574094640739146090973866248",
+        "quoteOk":  true,
+        "toTokenAmount":  "118535320230933074248",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xc227717ef4ae4d982e14789eb33ba942243c3fee",
+        "symbol":  "MOZ",
+        "liquidity":  "225.420048577854286743648908345",
+        "quoteOk":  true,
+        "toTokenAmount":  "82630445249515489706546",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "1026228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xce6170ea245dc8d1f275a710a062b70f125f0110",
+        "symbol":  "FXRP",
+        "liquidity":  "308.630059802194650214468304",
+        "quoteOk":  true,
+        "toTokenAmount":  "744896",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xdefa1d21c5f1cbeac00eeb54b44c7d86467cc3a3",
+        "symbol":  "ALMANAK",
+        "liquidity":  "146421.011253867727290003502578258",
+        "quoteOk":  true,
+        "toTokenAmount":  "453904193469779323274",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x93402f62aeda632b9d768092b61887c4e9a13079",
+        "symbol":  "VERTAI",
+        "liquidity":  "65484.0338303518595694666266424448",
+        "quoteOk":  true,
+        "toTokenAmount":  "44733515200822356017",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xc5fed7c8ccc75d8a72b601a66dffd7a489073f0b",
+        "symbol":  "ACU",
+        "liquidity":  "209171.2625726311422286310454879399",
+        "quoteOk":  true,
+        "toTokenAmount":  "12822169505766",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+        "symbol":  "SWORLD",
+        "liquidity":  "16613.4871690122297381444513070773184",
+        "quoteOk":  true,
+        "toTokenAmount":  "42011949898371935167155",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "411228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf",
+        "symbol":  "vTAO",
+        "liquidity":  "21877.888411353055954026592061693168816",
+        "quoteOk":  true,
+        "toTokenAmount":  "3152107183035802",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+        "symbol":  "BOX",
+        "liquidity":  "15504.77684742224257907882754503833",
+        "quoteOk":  true,
+        "toTokenAmount":  "99665153561602445723",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
+        "symbol":  "RLP",
+        "liquidity":  "571.33331744427167484179531803049284",
+        "quoteOk":  true,
+        "toTokenAmount":  "1547002753384729850",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "411228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+        "symbol":  "weETH",
+        "liquidity":  "4347772.281280575096369383630935270038811474232",
+        "quoteOk":  true,
+        "toTokenAmount":  "429210171549476",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xb67675158b412d53fe6b68946483ba920b135ba1",
+        "symbol":  "wstUSR",
+        "liquidity":  "913.20170445776319428758439630278941",
+        "quoteOk":  true,
+        "toTokenAmount":  "1663298475290339168",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+        "symbol":  "ORA",
+        "liquidity":  "75553.61161001103109598413640007031172012",
+        "quoteOk":  true,
+        "toTokenAmount":  "137605178821742411019",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xab1e131c6984cc149ef45931073d11ae35497191",
+        "symbol":  "MASA",
+        "liquidity":  "8408.094458778487572357145684292",
+        "quoteOk":  true,
+        "toTokenAmount":  "12247929262955442951733",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "1026228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+        "symbol":  "ORDER",
+        "liquidity":  "147002.262143093030493739361782757608946",
+        "quoteOk":  true,
+        "toTokenAmount":  "16977576005826240722",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "903000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+        "symbol":  "SQUID",
+        "liquidity":  "7712.8274449142005146934824528",
+        "quoteOk":  true,
+        "toTokenAmount":  "19608880861305849352862",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "1038000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+        "symbol":  "MOVE",
+        "liquidity":  "541.22334365962834237017249054",
+        "quoteOk":  false,
+        "error":  "The value difference from this transactionâs quote route is higher than 90%, which may lead to a risk of loss to user assets."
+    },
+    {
+        "token":  "0x959fc04dbf97a27073f89237cd62605f4d1b906d",
+        "symbol":  "COCA",
+        "liquidity":  "32982.24759470633389105687445106916",
+        "quoteOk":  true,
+        "toTokenAmount":  "821202110126436632",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xa100000000000d6e18bc155f425685e4badfe11c",
+        "symbol":  "SOFTWARE.ai",
+        "liquidity":  "72082.34620687335663141931194",
+        "quoteOk":  true,
+        "toTokenAmount":  "3518481",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "288000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+        "symbol":  "SOPH",
+        "liquidity":  "945.459973004920889452668317034616",
+        "quoteOk":  true,
+        "toTokenAmount":  "86658018363636353305",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x35e0966208f518371e79cc9fd35559112068ddad",
+        "symbol":  "WPAY",
+        "liquidity":  "65024.74984705275532318039770031546",
+        "quoteOk":  true,
+        "toTokenAmount":  "5608479601807838464",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x365b481bc61240aaa261ee637c9d2f9c1735ef3e",
+        "symbol":  "NRS",
+        "liquidity":  "96539.3739622607956131181460255373",
+        "quoteOk":  true,
+        "toTokenAmount":  "9290279323714033936",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "276228",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+        "symbol":  "SOON",
+        "liquidity":  "1203.11059137469108797104904495285",
+        "quoteOk":  true,
+        "toTokenAmount":  "8587745915600649921",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "1038000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x590830dfdf9a3f68afcdde2694773debdf267774",
+        "symbol":  "GIZA",
+        "liquidity":  "249929.68769331683245917537260212408325",
+        "quoteOk":  true,
+        "toTokenAmount":  "78541552155549748611",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "1038000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x370923d39f139c64813f173a1bf0b4f9ba36a24f",
+        "symbol":  "KRWQ",
+        "liquidity":  "162122.94656569951387306319669715",
+        "quoteOk":  true,
+        "toTokenAmount":  "1454275424607322465228",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "558000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "symbol":  "ZRO",
+        "liquidity":  "801115.063220537433569845112384252279220616",
+        "quoteOk":  true,
+        "toTokenAmount":  "536482737809258601",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0x407a5fb66cb1b3d50004f7091c08a27b42ba6d6f",
+        "symbol":  "ROBO",
+        "liquidity":  "436491.435254355427165662635346431",
+        "quoteOk":  true,
+        "toTokenAmount":  "55271697066924481880",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "903000",
+        "dexRouter":  null
+    },
+    {
+        "token":  "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+        "symbol":  "frxUSD",
+        "liquidity":  "92782.67232537806937345235353037668",
+        "quoteOk":  true,
+        "toTokenAmount":  "1001286578669142542",
+        "fromTokenAmount":  "1000000",
+        "estimatedGas":  "423000",
+        "dexRouter":  null
+    }
+]

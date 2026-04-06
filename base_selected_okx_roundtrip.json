@@ -1,0 +1,92 @@
+﻿[
+    {
+        "token":  "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+        "symbol":  "HANDL",
+        "liquidity":  "32789.428261941549322226763185279",
+        "buyAmount":  "927616236389765437695",
+        "roundtripUsdc":  0.993888,
+        "roundtripPct":  0.993888,
+        "router":  null
+    },
+    {
+        "token":  "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "symbol":  "ZRO",
+        "liquidity":  "801115.063220537433569845112384252279220616",
+        "buyAmount":  "536279518262034377",
+        "roundtripUsdc":  0.999547,
+        "roundtripPct":  0.999547,
+        "router":  null
+    },
+    {
+        "token":  "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+        "symbol":  "CARV",
+        "liquidity":  "413849.69246109782009406859404138459192",
+        "buyAmount":  "17372083273201063477",
+        "roundtripUsdc":  0.999455,
+        "roundtripPct":  0.999455,
+        "router":  null
+    },
+    {
+        "token":  "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+        "symbol":  "DRV",
+        "liquidity":  "895422.853910808370645917915966173605708193776",
+        "buyAmount":  "10784852602519904142",
+        "roundtripUsdc":  0.993309,
+        "roundtripPct":  0.993309,
+        "router":  null
+    },
+    {
+        "token":  "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+        "symbol":  "THQ",
+        "liquidity":  "630760.32590962890608983597440233623118",
+        "buyAmount":  "45838800096636308587",
+        "roundtripUsdc":  0.999792,
+        "roundtripPct":  0.999792,
+        "router":  null
+    },
+    {
+        "token":  "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+        "symbol":  "VFY",
+        "liquidity":  "422957.18433574094640739146090973866248",
+        "buyAmount":  "118535320230933074248",
+        "roundtripUsdc":  0.999494,
+        "roundtripPct":  0.999494,
+        "router":  null
+    },
+    {
+        "token":  "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+        "symbol":  "weETH",
+        "liquidity":  "4347772.281280575096369383630935270038811474232",
+        "buyAmount":  "429024766167997",
+        "roundtripUsdc":  0.99925,
+        "roundtripPct":  0.99925,
+        "router":  null
+    },
+    {
+        "token":  "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
+        "symbol":  "RAVE",
+        "liquidity":  "187999.74916378117324267444405234048",
+        "buyAmount":  "3897134817216145334",
+        "roundtripUsdc":  0.994,
+        "roundtripPct":  0.994,
+        "router":  null
+    },
+    {
+        "token":  "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+        "symbol":  "ORDER",
+        "liquidity":  "147002.262143093030493739361782757608946",
+        "buyAmount":  "17051461390025360652",
+        "roundtripUsdc":  0.99311,
+        "roundtripPct":  0.99311,
+        "router":  null
+    },
+    {
+        "token":  "0x365b481bc61240aaa261ee637c9d2f9c1735ef3e",
+        "symbol":  "NRS",
+        "liquidity":  "96539.3739622607956131181460255373",
+        "buyAmount":  "9290279323714033936",
+        "roundtripUsdc":  0.993968,
+        "roundtripPct":  0.993968,
+        "router":  null
+    }
+]
